@@ -1,0 +1,3 @@
+# Single Linked List in Python
+
+This repository contains two classes: the LinkedListElement class and LinkedListHead class, which both together build the Linked List. The LinkedListHead is the main object to manage the LinkedListElements. LinkedListHead element contains all methods which are required to manage a Linked List. The LinkedListElement is the element within the LinkedList containing the value and the next pointer of the LikedListElement.
